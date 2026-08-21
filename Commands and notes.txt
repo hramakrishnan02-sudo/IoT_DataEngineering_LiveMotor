@@ -1,0 +1,3 @@
+To Check the sensor data in Azure portal, Open Azure CLI
+
+az iot hub monitor-events --hub-name motorsensors --device-id MTR001 --output json
